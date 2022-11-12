@@ -8,6 +8,9 @@
 .display_flex {
   display: flex;
 }
+.inline_flex {
+  display: inline-flex;
+}
 .flex_column {
   flex-direction: column;
 }

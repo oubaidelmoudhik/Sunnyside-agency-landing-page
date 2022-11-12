@@ -315,7 +315,7 @@ p {
   max-width: 20%;
   border-radius: 50%;
 }
-.info h4 {
+.info h3 {
   color: var(--very-dark-blue);
   font-size: var(--fs-500);
   font-family: var(--ff-secondary);
@@ -388,8 +388,8 @@ footer {
   gap: 2rem;
 }
 .logo_footer svg {
+  width: 150px;
   display: block;
-  /* max-width: 150px; */
   fill: var(--dark-cyan-footer);
 }
 footer a {
@@ -399,12 +399,10 @@ footer a:hover {
   color: var(--white);
 }
 .footer_nav {
-  display: inline-flex;
   gap: 2.5rem;
   margin-bottom: 2rem;
 }
 .social {
-  display: inline-flex;
   gap: 1.5rem;
 }
 .social img {

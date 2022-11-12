@@ -54,19 +54,20 @@ Also, this was the first project I've used JavaScript in, not much, but it's a s
 
 ```css
 /* Some CSS that I'm proud of! */
-.overlay {
-  transform: translateX(200%);
-  transition: transform 0.5s cubic-bezier(0.39, 0.23, 0.16, 0.42);
-  flex-direction: column;
-  gap: 4rem;
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 70%;
-  height: 100%;
-  padding: 1.5rem;
-  background-color: var(--off-white);
-  box-shadow: -200px 0 100px 0 rgba(0, 0, 0, 0.215);
+.service a::after {
+  content: "";
+  display: block;
+  width: 125px;
+  height: 8px;
+  margin: auto;
+  border-radius: 5px;
+  margin-top: -7px;
+}
+main .service:nth-child(2) a::after {
+  background-color: var(--yellow-transparent);
+}
+main .service:nth-child(2) a:hover::after {
+  background-color: var(--yellow);
 }
 ```
 

@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor page](https://www.frontendmentor.io/solutions/sunnysideagencylandingpage-Ij0JZ7eSpk)
-- Live Site URL: [On Github](https://theniceguywastaken.github.io/Sunnyside-agency-landing-page/)
+- Live Site URL: [On Github](https://oubaidelmoudhik.github.io/Sunnyside-agency-landing-page/)
 
 ## My process
 
@@ -83,7 +83,7 @@ I want to continue building more complexe projects to have more understanding of
 ## Author
 
 - LinkedIn - [Oubaid](https://www.linkedin.com/in/oubaidelmoudhik/)
-- Frontend Mentor - [@theniceguywastaken](https://www.frontendmentor.io/profile/theniceguywastaken)
+- Frontend Mentor - [@oubaidelmoudhik](https://www.frontendmentor.io/profile/oubaidelmoudhik)
 - Twitter - [@oubaidem](https://www.twitter.com/oubaidem)
 
 ## Acknowledgments
